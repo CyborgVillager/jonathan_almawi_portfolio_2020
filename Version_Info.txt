@@ -16,9 +16,11 @@
 
 v0 Django Basic Setup: Created new django project for portfolio, basic information has been completed to run
                             the program
---v1 Updated Django Info: Re-edit the files, new info has been inserted
--wor:v2:
-v3:
+v1 Updated Django Info: Re-edit the files, new info has been inserted
+--v2 Polls Added: Polls has been added, will finish the basics then work on the in-depth information
+                    regarding to my profile info. Will be using Polls to test other features for up-coming
+                    projects
+-wor:v3:
 v4:
 v5:
 v6:
