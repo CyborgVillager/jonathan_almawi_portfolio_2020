@@ -31,6 +31,7 @@ v6 Modified some information: Used previous made django code to modifi this resp
 --v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .css, completed making a demo .py into an .exe. Just need
         to work on allowing it to be downloaded with no errors. Besides that will be working on the about page, and contact
         form. to allow messages to be sent via email or other means of contacting.
+        
 -wor:v8:
 v9:
 v10:
