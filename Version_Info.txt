@@ -26,9 +26,9 @@ v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage
                         nitated after updating  polls/models.py and including polls.apps.PollsConfig onto
                         jonathan_almawi_portfolio_2020/settings
 
---v5 Admin Creation: created an admin/made some modifications
--wor:v6:
-v7:
+v5 Admin Creation: created an admin/made some modifications
+--v6 Modified some information: Used previous made django code to modifi this respo
+-wor:v7:
 v8:
 v9:
 v10:
