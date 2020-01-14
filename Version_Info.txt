@@ -21,11 +21,13 @@ v2 Polls Added: Polls has been added, will finish the basics then work on the in
                     regarding to my profile info. Will be using Polls to test other features for up-coming
                     projects
 v3 Migrated information for Database: python manage.py migrate -> to update the database
---v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage.py sqlmigrate polls 0001 were i
+
+v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage.py sqlmigrate polls 0001 were i
                         nitated after updating  polls/models.py and including polls.apps.PollsConfig onto
                         jonathan_almawi_portfolio_2020/settings
--wor:v5:
-v6:
+
+--v5 Admin Creation: created an admin/made some modifications
+-wor:v6:
 v7:
 v8:
 v9:
