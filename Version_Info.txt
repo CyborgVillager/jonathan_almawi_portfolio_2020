@@ -29,6 +29,7 @@ v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage
 v5 Admin Creation: created an admin/made some modifications
 v6 Modified some information: Used previous made django code to modifi this respo
 v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .css, completed making a demo .py into an .exe. Just need
+
         to work on allowing it to be downloaded with no errors. Besides that will be working on the about page, and contact
         form. to allow messages to be sent via email or other means of contacting.
         
@@ -47,7 +48,7 @@ v8 Program Page Info: Main_Shop program was used for a final project regarding t
     Chat Program -> Allow users to chat/send information to each other
     A.i -> work on improving the intelligence. Will begin this process about A.i on Feb/5/2020
 
---v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
--wor:v10:
+v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
+--v10 About Page Modified: About Page Modified, will work on description for the page
 v11:
 v12:
