@@ -53,12 +53,13 @@ v10 About Page Modified: About Page Modified, will work on description for the p
 
 v11 Improved Footer: Improved Footer description, for all pages
         Edit: Added Location
---v12 Updated About Page & Other .ETC information: Finished about page, and updated the rest of the other pages
+
+v12 Updated About Page & Other .ETC information: Finished about page, and updated the rest of the other pages
                                                     in regarding to /about
                                                     Edit: v12.5 Contact Page
 
--wor:v13 Contact Page:
-v14:
+--v13 Contact Page: Contact Page completed/ fixed contact page  & about design when a user clicks on a link
+-wor:v14:
 v15:
 v16:
 v17:
