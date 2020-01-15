@@ -32,7 +32,7 @@ v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .
         to work on allowing it to be downloaded with no errors. Besides that will be working on the about page, and contact
         form. to allow messages to be sent via email or other means of contacting.
         
---v8 Program Page Info: Main_Shop program was used for a final project regarding to my fall semester class. The main objectives
+v8 Program Page Info: Main_Shop program was used for a final project regarding to my fall semester class. The main objectives
     were to make a book or dvd store that the user will be able to see, edit
     delete, and checkout with taxes.
 
@@ -47,7 +47,7 @@ v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .
     Chat Program -> Allow users to chat/send information to each other
     A.i -> work on improving the intelligence. Will begin this process about A.i on Feb/5/2020
 
--wor:v9:
-v10:
+--v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
+-wor:v10:
 v11:
 v12:
