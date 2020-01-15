@@ -28,10 +28,26 @@ v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage
 
 v5 Admin Creation: created an admin/made some modifications
 v6 Modified some information: Used previous made django code to modifi this respo
---v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .css, completed making a demo .py into an .exe. Just need
+v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .css, completed making a demo .py into an .exe. Just need
         to work on allowing it to be downloaded with no errors. Besides that will be working on the about page, and contact
         form. to allow messages to be sent via email or other means of contacting.
         
--wor:v8:
-v9:
+--v8 Program Page Info: Main_Shop program was used for a final project regarding to my fall semester class. The main objectives
+    were to make a book or dvd store that the user will be able to see, edit
+    delete, and checkout with taxes.
+
+    The Kivy Calculator was used as a test-run on kivy/see how it operates. I also used this learning experience to help
+    aid my professor in teaching the class about kivy, and making an temporarily app for them to play with. .
+
+    The github logo will have the rest of my respo, of my other programs, experiments, and mini projects. Feel free to check
+    those out.
+
+    This site is one of my main 3 projects that im working on.
+    Site -> modify it to mostly use Mezzanine
+    Chat Program -> Allow users to chat/send information to each other
+    A.i -> work on improving the intelligence. Will begin this process about A.i on Feb/5/2020
+
+-wor:v9:
 v10:
+v11:
+v12:
