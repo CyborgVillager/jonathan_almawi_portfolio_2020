@@ -51,10 +51,11 @@ v8 Program Page Info: Main_Shop program was used for a final project regarding t
 v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
 v10 About Page Modified: About Page Modified, will work on description for the page
 
---v11 Improved Footer: Improved Footer description, for all pages
+v11 Improved Footer: Improved Footer description, for all pages
         Edit: Added Location
-v12:
-v13:
+--v12 Updated About Page & Other .ETC information: Finished about page, and updated the rest of the other pages
+                                                    in regarding to /about
+-wor:v13:
 v14:
 v15:
 v16:
