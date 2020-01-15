@@ -49,6 +49,6 @@ v8 Program Page Info: Main_Shop program was used for a final project regarding t
     A.i -> work on improving the intelligence. Will begin this process about A.i on Feb/5/2020
 
 v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
---v10 About Page Modified: About Page Modified, will work on description for the page
-v11:
+v10 About Page Modified: About Page Modified, will work on description for the page
+--v11 Improved Footer: Improved Footer description, for all pages
 v12:
