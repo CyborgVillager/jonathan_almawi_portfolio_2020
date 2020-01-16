@@ -59,9 +59,10 @@ v12 Updated About Page & Other .ETC information: Finished about page, and update
                                                     in regarding to /about
                                                     Edit: v12.5 Contact Page
 
---v13 Contact Page: Contact Page completed/ fixed contact page  & about design when a user clicks on a link
+v13 Contact Page: Contact Page completed/ fixed contact page  & about design when a user clicks on a link
                     v13.5 Edit Version_Info.txt: added barriers in version_info.txt to help aid in visual guidance
--wor:v14:
+--v14 <-x_x->: Reset recent Git changes: reset recent git changes, couple of errors occured when pushing to heroku, will work
+                                    on this issue
 v15:
 v16:
 v17:
